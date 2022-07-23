@@ -5,3 +5,7 @@ You’re an analyst for an existing company, Instacart, an online grocery store 
 segmentation based on the provided criteria.
 ## Data
 Data for this project are multiple open-source data sets from Instacart. A data dictionary can be accessed [here](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b).
+## Tools 
+This project used Excel and the following Python libraries:
+- pandas
+- seaborn
